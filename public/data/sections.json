@@ -13,6 +13,9 @@
       "templates": ["cover-1"],
       "data": {
         "heading": "Hello World"
+      },
+      "collections": {
+        "greetings": {}
       }
     },
     {

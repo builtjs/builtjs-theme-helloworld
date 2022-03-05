@@ -1,0 +1,10 @@
+{
+  "items": [
+    {
+      "slug": "greeting-1",
+      "attributes": {
+        "label": "Nice to meet you"
+      }
+    }
+  ]
+}
