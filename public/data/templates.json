@@ -1,0 +1,24 @@
+{
+  "templates": [
+    {
+      "slug": "header-1",
+      "displayName": "Header 1",
+      "category": "headers",
+      "description": "Simple header",
+      "imageUrl": ""
+    },
+    {
+      "slug": "cover-1",
+      "displayName": "Cover 1",
+      "category": "covers",
+      "description": "Cover template"
+    },
+    {
+      "slug": "footer-1",
+      "displayName": "Footer 1",
+      "category": "footers",
+      "description": "Simple footer",
+      "imageUrl": ""
+    }
+  ]
+}

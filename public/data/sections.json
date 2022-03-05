@@ -1,0 +1,25 @@
+{
+  "sections": [
+    {
+      "slug": "header-1",
+      "displayName": "Header 1",
+      "description": "Site Header",
+      "templates": ["header-1"]
+    },
+    {
+      "slug": "main-landing",
+      "displayName": "Main Landing",
+      "description": "Main landing section",
+      "templates": ["cover-1"],
+      "data": {
+        "heading": "Hello World"
+      }
+    },
+    {
+      "slug": "footer-1",
+      "displayName": "Footer 1",
+      "description": "Site Footer",
+      "templates": ["footer-1"]
+    }
+  ]
+}

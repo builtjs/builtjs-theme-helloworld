@@ -1,0 +1,16 @@
+{
+  "pageSections": [
+    {
+      "slug": "home-base",
+      "description": "Home page base sections",
+      "page": {
+        "slug": "home"
+      },
+      "sections": [
+        {
+          "slug": "main-landing"
+        }
+      ]
+    }
+  ]
+}

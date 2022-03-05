@@ -1,0 +1,15 @@
+{
+  "modules": [
+    {
+      "slug": "greet",
+      "displayName": "Greet",
+      "description": "Display a friendly greeting",
+      "required": true,
+      "pageSections": [
+        {
+          "slug": "home-base"
+        }
+      ]
+    }
+  ]
+}

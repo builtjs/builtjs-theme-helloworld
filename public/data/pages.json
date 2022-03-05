@@ -1,0 +1,21 @@
+{
+  "pages": {
+    "site": [
+      {
+        "slug": "home",
+        "singularName": "home",
+        "pluralName": "homes",
+        "displayName": "Home",
+        "status": "published",
+        "sections": [
+          {
+            "slug": "main-landing",
+            "template": {
+              "slug": "cover-1"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
