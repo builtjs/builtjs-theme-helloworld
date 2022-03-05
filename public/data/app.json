@@ -5,7 +5,7 @@
     "displayName": "Hello World",
     "description": "Built.JS Hello World app",
     "gitProvider": "github",
-    "repoUrl": "https://github.com/builtjs/builtjs-theme-helloworld",
+    "repoName": "builtjs/builtjs-theme-helloworld",
     "modules": [
       {
         "slug": "greeting"
