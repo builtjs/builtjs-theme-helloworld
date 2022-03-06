@@ -1,0 +1,16 @@
+{
+  "items": [
+    {
+      "slug": "nice-to-meet-you",
+      "attributes": {
+        "label": "Nice to meet you"
+      }
+    },
+    {
+      "slug": "have-a-nice-day",
+      "attributes": {
+        "label": "Have a nice day"
+      }
+    }
+  ]
+}
