@@ -10,18 +10,26 @@ Then you can run the app using:
 ```
 npm run dev
 ```
+---
+
 ### Modules
 A module represents a business use case for the application.
 #### Greet
 Display a friendly greeting
 
+---
+
 ### Pages
 - Home
+
+---
 
 ### Content Types
 #### Greeting
 Attributes:
 - label: Text
+
+---
 
 ### Templates
 Templates specify the UI design of a section. In this theme, they fall under the following categories:
