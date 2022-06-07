@@ -1,6 +1,6 @@
 export default function Cover1({ content }) {
   let { attributes, collections } = { ...content };
-  console.log({ content });
+  console.log('cover 1', content );
   let greetings = [];
   if (collections && collections["greetings"]) {
     greetings = collections["greetings"].items;

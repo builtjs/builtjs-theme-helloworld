@@ -3,14 +3,14 @@ const Layout = (props) => {
   return (
     <>
       {page.layout && (
-        <page.layout._0.template
+        <page.layout._0.component
           content={page.layout._0.content}
           app={page.app}
         />
       )}
-      <main id="main">{children}</main>
+      <main>{children}</main>
       {page.layout && (
-        <page.layout._1.template
+        <page.layout._1.component
           content={page.layout._1.content}
           app={page.app}
         />
@@ -20,3 +20,26 @@ const Layout = (props) => {
 };
 
 export default Layout;
+
+// const Layout = (props) => {
+//   const { children, page } = props;
+//   return (
+//     <>
+//       {page.layout && (
+//         <page.layout._0.template
+//           content={page.layout._0.content}
+//           app={page.app}
+//         />
+//       )}
+//       <main id="main">{children}</main>
+//       {page.layout && (
+//         <page.layout._1.template
+//           content={page.layout._1.content}
+//           app={page.app}
+//         />
+//       )}
+//     </>
+//   );
+// };
+
+// export default Layout;

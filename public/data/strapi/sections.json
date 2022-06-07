@@ -1,7 +1,7 @@
 {
   "sections": {
-    "header-1": {
-      "slug": "header-1",
+    "header": {
+      "slug": "header",
       "category": "layout",
       "settings": {
         "collectionName": "components_layout_header_1",

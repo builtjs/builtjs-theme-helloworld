@@ -1,10 +1,10 @@
-import { fetchPage } from "../lib/fetch";
-import Page from "../page";
+import { getConfig } from "@builtjs/theme";
+import Page from "../.theme/page";
 
 export default Page;
 
 export async function getStaticProps() {
-  const config = await fetchPage("home");
+  const config = await getConfig("home");
   return {
     props: { config }
   };

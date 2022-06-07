@@ -9,7 +9,8 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "alasql": "^1.7.3",
+    "@builtjs/theme": "^1.1.44",
+    "@builtjs/site": "^1.0.1",
     "next": "^12.1.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
