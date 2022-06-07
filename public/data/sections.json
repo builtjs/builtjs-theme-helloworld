@@ -4,10 +4,7 @@
       "slug": "header",
       "displayName": "Header",
       "description": "Site Header",
-      "templates": ["header-1"],
-      "defaultTemplate": {
-        "slug": "header-1"
-      }
+      "templates": ["header-1"]
     },
     {
       "slug": "main-landing",
