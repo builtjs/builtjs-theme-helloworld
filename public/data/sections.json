@@ -10,6 +10,15 @@
       }
     },
     {
+      "slug": "footer",
+      "displayName": "Footer",
+      "description": "Site Footer",
+      "templates": ["footer-1"],
+      "defaultTemplate": {
+        "slug": "footer-1"
+      }
+    },
+    {
       "slug": "main-landing",
       "displayName": "Main Landing",
       "description": "Main landing section",
@@ -22,15 +31,6 @@
       },
       "collections": {
         "greetings": {}
-      }
-    },
-    {
-      "slug": "footer",
-      "displayName": "Footer",
-      "description": "Site Footer",
-      "templates": ["footer-1"],
-      "defaultTemplate": {
-        "slug": "footer-1"
       }
     }
   ]

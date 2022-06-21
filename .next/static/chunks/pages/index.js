@@ -417,7 +417,7 @@ module.exports = JSON.parse('{"pages":[{"slug":"home","singularName":"home","plu
 /***/ (function(module) {
 
 "use strict";
-module.exports = JSON.parse('{"sections":[{"slug":"header","displayName":"Header","description":"Site Header","templates":["header-1"],"defaultTemplate":{"slug":"header-1"}},{"slug":"main-landing","displayName":"Main Landing","description":"Main landing section","templates":["cover-1"],"defaultTemplate":{"slug":"cover-1"},"attributes":{"heading":"Hello World"},"collections":{"greetings":{}}},{"slug":"footer","displayName":"Footer","description":"Site Footer","templates":["footer-1"],"defaultTemplate":{"slug":"footer-1"}}]}');
+module.exports = JSON.parse('{"sections":[{"slug":"header","displayName":"Header","description":"Site Header","templates":["header-1"],"defaultTemplate":{"slug":"header-1"}},{"slug":"footer","displayName":"Footer","description":"Site Footer","templates":["footer-1"],"defaultTemplate":{"slug":"footer-1"}},{"slug":"main-landing","displayName":"Main Landing","description":"Main landing section","templates":["cover-1"],"defaultTemplate":{"slug":"cover-1"},"attributes":{"heading":"Hello World"},"collections":{"greetings":{}}}]}');
 
 /***/ }),
 
@@ -450,7 +450,7 @@ module.exports = JSON.parse('{"global":{"settings":{"kind":"singleType","collect
 /***/ (function(module) {
 
 "use strict";
-module.exports = JSON.parse('{"sections":{"header":{"slug":"header","category":"layout","settings":{"collectionName":"components_layout_header_1","info":{"displayName":"Header","icon":"heading"},"attributes":{}}},"footer-1":{"slug":"footer-1","category":"layout","settings":{"collectionName":"components_layout_footer_1","info":{"displayName":"Footer","icon":"heading"},"attributes":{}}},"main-landing":{"slug":"main-landing","category":"sections","settings":{"collectionName":"components_sections_main_landing","info":{"displayName":"Main landing","icon":"heading"},"attributes":{"heading":{"type":"string"}}}}}}');
+module.exports = JSON.parse('{"sections":{"header":{"slug":"header","category":"layout","settings":{"collectionName":"components_layout_header_1","info":{"displayName":"Header","icon":"heading"},"attributes":{"heading":{"type":"string"}}}},"footer":{"slug":"footer","category":"layout","settings":{"collectionName":"components_layout_footer_1","info":{"displayName":"Footer","icon":"heading"},"attributes":{}}},"main-landing":{"slug":"main-landing","category":"sections","settings":{"collectionName":"components_sections_main_landing","info":{"displayName":"Main landing","icon":"heading"},"attributes":{"heading":{"type":"string"}}}}}}');
 
 /***/ }),
 

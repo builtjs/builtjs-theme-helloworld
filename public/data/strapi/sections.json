@@ -9,11 +9,13 @@
           "displayName": "Header",
           "icon": "heading"
         },
-        "attributes": {}
+        "attributes": {
+          "heading": { "type": "string" }
+        }
       }
     },
-    "footer-1": {
-      "slug": "footer-1",
+    "footer": {
+      "slug": "footer",
       "category": "layout",
       "settings": {
         "collectionName": "components_layout_footer_1",
