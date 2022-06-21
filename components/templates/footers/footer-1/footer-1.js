@@ -1,3 +1,3 @@
-export default function Header1({ content }) {
+export default function Footer1({ content }) {
   return <footer></footer>;
 }
