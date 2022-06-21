@@ -9,8 +9,8 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@builtjs/theme": "^1.1.47",
-    "@builtjs/site": "^1.0.1",
+    "@builtjs/theme": "^1.1.48",
+    "@builtjs/site": "^1.0.3",
     "next": "^12.1.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
