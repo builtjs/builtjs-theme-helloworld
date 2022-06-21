@@ -4,8 +4,7 @@
       "slug": "header-1",
       "displayName": "Header 1",
       "category": "headers",
-      "description": "Simple header",
-      "imageUrl": ""
+      "description": "Simple header"
     },
     {
       "slug": "cover-1",
@@ -17,8 +16,7 @@
       "slug": "footer-1",
       "displayName": "Footer 1",
       "category": "footers",
-      "description": "Simple footer",
-      "imageUrl": ""
+      "description": "Simple footer"
     }
   ]
 }
