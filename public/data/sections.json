@@ -7,6 +7,9 @@
       "templates": ["header-1"],
       "defaultTemplate": {
         "slug": "header-1"
+      },
+      "attributes": {
+        "heading": "Hello World"
       }
     },
     {
@@ -27,7 +30,7 @@
         "slug": "cover-1"
       },
       "attributes": {
-        "heading": "Hello World"
+        "heading": "Greetings"
       },
       "collections": {
         "greetings": {}
