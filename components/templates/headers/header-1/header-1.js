@@ -1,8 +1,9 @@
 export default function Header1({ content }) {
-  let { global } = { ...content };
+  let { global, attributes } = { ...content };
   return (
     <header>
-      <h3>{global.name}</h3>
+      <h4>{global.name}</h4>
+      <h3>{attributes.heading}</h3>
     </header>
   );
 }
