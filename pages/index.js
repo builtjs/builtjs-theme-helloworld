@@ -1,5 +1,5 @@
 import { getConfig } from "@builtjs/theme";
-import Page from "../.theme/page";
+import Page from "../theme/page";
 
 export default Page;
 
